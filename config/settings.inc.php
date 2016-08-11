@@ -1,8 +1,8 @@
 <?php
-define('_DB_SERVER_', 'mysql.hostinger.mx');
-define('_DB_NAME_', 'u636275184_tg');
-define('_DB_USER_', 'u636275184_utg');
-define('_DB_PASSWD_', 'omelino05');
+define('_DB_SERVER_', 'localhost');
+define('_DB_NAME_', 'prestashop');
+define('_DB_USER_', 'root');
+define('_DB_PASSWD_', '');
 define('_DB_PREFIX_', 'ps_');
 define('_MYSQL_ENGINE_', 'InnoDB');
 define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
